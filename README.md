@@ -1,5 +1,5 @@
 # Kissanime-Downloader
-Mandatory: Kissanime account (you can make a throwaway if you would like) as the program requires it.
+Mandatory: Kissanime account (you can make a throwaway if you would like) as the program requires it. As well as Chrome, and .Net framework (the version I did it with as 4.5.2)
 
 Note: Several things are on the TODO list, however it still works in its current state.
 
