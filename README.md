@@ -4,7 +4,12 @@ Mandatory: Kissanime account (you can make a throwaway if you would like) as the
 Note: Several things are on the TODO list, however it still works in its current state.
 
 
+
+
+
+
 How to use:
+
 Step 1: Type username then hit enter.
 
 Step 2: Type password then hit enter.
