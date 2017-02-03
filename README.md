@@ -1,7 +1,7 @@
 # Kissanime-Downloader
 Mandatory: Kissanime account (you can make a throwaway if you would like) as the program requires it. As well as Chrome, and .Net framework (the version I did it with as 4.5.2)
 
-Note: Using ".io" is currently bugged, please use ".ru". There are also a few more planned features.
+Note: Using ".io" is currently bugged, please use ".ru". I wouldn't recommend downloading shows that have more than 20-30 episodes for right now. There are also a few more planned features.
 
 How to use:
 
